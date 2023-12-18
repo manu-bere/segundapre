@@ -1,18 +1,34 @@
 
 
 
-
-
 /*NAVBAR*/
-header {
+
+#navegacionfg .fondogray {
+    justify-content: center;
+}
+
+
+.fondograyy {
     background-color: rgb(189, 186, 186);
+}
+
+header .fondogray { 
+    background-color: rgb(163, 163, 163);
+    
+}
+.fondogray a {
+    text-decoration: none;
+    color: white;
+    padding-top: 5px;
 }
 
 
 
 
+
 /* decoracion  */
-a {
+
+footer, .fondogris a{
     text-decoration: none;
     color: rgba(37, 36, 36, 0.459);
 }

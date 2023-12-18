@@ -1,5 +1,33 @@
 
+
+
+
+
 /*NAVBAR*/
 header {
+    background-color: rgb(189, 186, 186);
+}
+
+
+
+
+/* decoracion  */
+a {
+    text-decoration: none;
+    color: rgba(37, 36, 36, 0.459);
+}
+
+
+
+    /* carousel */
+
+#mejoracarousel img {
+    height: 40vh;
+}
+
+
+
+/* FOOTER */
+.fondogris {
     background-color: rgb(189, 186, 186);
 }

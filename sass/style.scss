@@ -38,8 +38,11 @@ header #fondogray {
 
     /* carousel */
 
-#carouselExampleSlidesOnly img {
-    height: 60vh;
+#carouselExampleSlidesOnly{
+    img {
+       height: 60vh;
+       width: 100%;
+    }
 }
 
 

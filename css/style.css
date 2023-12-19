@@ -26,6 +26,7 @@ header #fondogray {
 /* carousel */
 #carouselExampleSlidesOnly img {
   height: 60vh;
+  width: 100%;
 }
 
 /*# sourceMappingURL=style.css.map */

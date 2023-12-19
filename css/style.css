@@ -1,49 +1,31 @@
-
-
-
 /*NAVBAR*/
-
-#navegacionfg .fondogray {
-    justify-content: center;
+#navegacionfg .fondograyy {
+  background-color: rgb(189, 186, 186);
+}
+#navegacionfg .fondograyy #fondogray {
+  justify-content: center;
+}
+#navegacionfg .fondograyy #fondogray a {
+  text-decoration: none;
+  color: white;
 }
 
-
-.fondograyy {
-    background-color: rgb(189, 186, 186);
+header #fondogray {
+  background-color: rgb(151, 149, 149);
 }
 
-header .fondogray { 
-    background-color: rgb(163, 163, 163);
-    
-}
-.fondogray a {
-    text-decoration: none;
-    color: white;
-    padding-top: 5px;
-}
-
-
-
-
-
-/* decoracion  */
-
-footer, .fondogris a{
-    text-decoration: none;
-    color: rgba(37, 36, 36, 0.459);
-}
-
-
-
-    /* carousel */
-
-#mejoracarousel img {
-    height: 40vh;
-}
-
-
-
-/* FOOTER */
+/*FOOTERR*/
 .fondogris {
-    background-color: rgb(189, 186, 186);
+  background-color: rgb(189, 186, 186);
 }
+.fondogris a {
+  text-decoration: none;
+  color: rgba(37, 36, 36, 0.459);
+}
+
+/* carousel */
+#carouselExampleSlidesOnly img {
+  height: 60vh;
+}
+
+/*# sourceMappingURL=style.css.map */

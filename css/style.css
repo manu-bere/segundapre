@@ -4,14 +4,11 @@
 }
 #navegacionfg .fondograyy #fondogray {
   justify-content: center;
+  background-color: rgb(151, 149, 149);
 }
 #navegacionfg .fondograyy #fondogray a {
   text-decoration: none;
   color: white;
-}
-
-header #fondogray {
-  background-color: rgb(151, 149, 149);
 }
 
 /*FOOTERR*/
